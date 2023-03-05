@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @DavidPageATL
-- 👀 I’m interested in lots of things
-- 🌱 I’m currently learning Rust, Swift, C++, Python
+- 👋 Hi
 
 <!---
 DavidPageATL/DavidPageATL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
